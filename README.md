@@ -1,4 +1,4 @@
-# Home surveillance and motion detection with the Raspberry Pi, OpenCV, and Dropbox
+# Motion detection with the Raspberry Pi, OpenCV, and Dropbox
 
 In this project if the raspberry camera detect a motion, it will first capture and store the picture locally in a temporary file and then send the picture into dropbox. After sending sending the picture into dropbox it will delete the temporary file.
 
